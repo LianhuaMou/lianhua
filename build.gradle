@@ -40,5 +40,5 @@ subprojects { //配置该项目的子项目
     }
 }
 
-group 'com.cas'
+group 'com.start'
 version '0.0.1-SNAPSHOT'

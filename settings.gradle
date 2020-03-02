@@ -1,1 +1,6 @@
 rootProject.name = 'springboot-start'
+include 'start-common'
+include 'start-dao'
+include 'start-service'
+include 'start-web'
+
